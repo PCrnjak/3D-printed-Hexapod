@@ -22,8 +22,8 @@
 
 
 //[SERIAL CONNECTIONS]
-#define cSSC_OUT         19//19      	//Output pin for (SSC32 tX) on BotBoard (Yellow)
-#define cSSC_IN          18//18      	//Input pin for (SSC32 rX) on BotBoard (Blue)
+#define cSSC_OUT         19//19      	//SSC32 TX
+#define cSSC_IN          18//18      	//SSC32 RX
 //#define cSSC_BAUD        I38400   //SSC32 BAUD rate
 #define cSSC_BAUD        I115200   	//SSC32 BAUD rate
 #define	cSSC_BINARYMODE	0			// Define if your SSC-32 card supports binary mode.
