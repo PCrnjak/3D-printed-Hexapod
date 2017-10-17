@@ -4,7 +4,7 @@ Code and STL files for small 18 servo hexapod.
 
 Stl folder contains all parts for robot.
 
-More info about assembling robot is on instructables.
+More info about assembling robot is on instructables.https://www.instructables.com/id/3D-Printed-18DOF-Hexapod/
 
 Code was tested with latest arduino ide and Arduino OO21
 
