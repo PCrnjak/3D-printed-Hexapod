@@ -4,7 +4,7 @@
 
 ## Info
 Goal of this robot was to make small , 18 dof hexapod that looks good( and works good).
-I did not write this code I just slightly modified it.
+I did not write code for it I just slightly modified it.
 Original code can be found here https://github.com/KurtE/Arduino_Phoenix_Parts
 Info and building instructions can be found on [instructables](https://www.instructables.com/id/3D-Printed-18DOF-Hexapod/).
 
