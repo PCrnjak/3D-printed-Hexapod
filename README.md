@@ -2,6 +2,7 @@
 
 [![peroslika](https://user-images.githubusercontent.com/30388414/41651045-da065c62-747f-11e8-8b54-8c49339c4c88.jpg)](https://www.youtube.com/watch?v=POgCWFzcNkg)
 
+Our official website: https://source-robotics.com/
 Join discord community: https://discord.com/invite/prjUvjmGpZ
 ## Info
 Goal of this robot was to make small , 18 dof hexapod that looks good( and works good).
